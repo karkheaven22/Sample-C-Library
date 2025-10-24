@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGcIXUHqWzI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liansiong.chua\\source\\repos\\Property\\Property.interop\\Property.interop.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liansiong.chua\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.57\\microsoft.windows.sdk.net.ref.10.0.22621.57.nupkg.sha512"
+  ],
+  "logs": []
+}

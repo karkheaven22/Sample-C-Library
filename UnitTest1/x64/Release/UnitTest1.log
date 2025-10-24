@@ -1,0 +1,19 @@
+﻿  UnitTest1.cpp
+C:\Users\liansiong.chua\source\repos\Property\Property\Property.h(3,17): error C2871: 'System': a namespace with this name does not exist
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\liansiong.chua\source\repos\Property\Property\Property.h(6,2): error C2059: syntax error: 'public'
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\liansiong.chua\source\repos\Property\Property\Property.h(7,2): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\liansiong.chua\source\repos\Property\Property\Property.h(7,2): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\liansiong.chua\source\repos\Property\UnitTest1\UnitTest1.cpp(15,17): error C2653: 'Calculator': is not a class or namespace name
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\liansiong.chua\source\repos\Property\UnitTest1\UnitTest1.cpp(15,29): error C3861: 'EqualAmortization': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  

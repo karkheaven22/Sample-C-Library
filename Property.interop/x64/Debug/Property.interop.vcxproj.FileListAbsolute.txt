@@ -1,0 +1,7 @@
+C:\Debug\x64\Ijwhost.dll
+C:\Debug\x64\Property.interop.deps.json
+C:\Debug\x64\Property.interop.runtimeconfig.json
+C:\Users\liansiong.chua\source\repos\Property\x64\Debug\Ijwhost.dll
+C:\Users\liansiong.chua\source\repos\Property\x64\Debug\Property.interop.deps.json
+C:\Users\liansiong.chua\source\repos\Property\x64\Debug\Property.interop.runtimeconfig.json
+C:\Users\liansiong.chua\source\repos\Property\Property.interop\x64\Debug\Property.interop.genruntimeconfig.cache
