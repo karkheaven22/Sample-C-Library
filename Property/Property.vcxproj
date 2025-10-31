@@ -152,9 +152,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="MathUtils.h" />
+    <ClInclude Include="model.h" />
     <ClInclude Include="PayLib.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClInclude>
+    <ClInclude Include="Property.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PayLib.cpp">

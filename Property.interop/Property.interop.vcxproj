@@ -45,6 +45,7 @@
     <CopyLocalDebugSymbols>false</CopyLocalDebugSymbols>
     <CustomBuildAfterTargets>
     </CustomBuildAfterTargets>
+    <LinkIncremental>false</LinkIncremental>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)'=='Debug'" Label="Configuration">
     <UseDebugLibraries>true</UseDebugLibraries>
@@ -90,10 +91,10 @@
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Property.h" />
+    <ClInclude Include="InteropLib.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Property.cpp" />
+    <ClCompile Include="InteropLib.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
 </Project>
