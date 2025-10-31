@@ -3,7 +3,6 @@
 #include "model.h"
 #include "MathUtils.h"
 
-
 inline std::vector<DailyCompound> MonthlyInterest(
     long long amt,
     const std::vector<Payment>& payments,

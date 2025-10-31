@@ -1,11 +1,11 @@
 #pragma once
 #include "../Property/model.h"
 #include "../Property/Property.h"
+#include "../Property/PayLib.h"
 #using <mscorlib.dll>
 using namespace System;
 using namespace System::Collections::Generic;
 using namespace System::Runtime::InteropServices;
-
 
 namespace InteropLib
 {
@@ -144,5 +144,7 @@ namespace InteropLib
         void BulkAddIntrest(array<ManagedInterest>^ list);
 
         ManagedDailyCompound GetMonthlyInterest(int month, int year);
+
+        double EqualAmortization(double amt, double interest, int period);
     };
 }

@@ -82,4 +82,8 @@ namespace InteropLib {
         mdc.IRate_Amount = dc.IRate_Amount;
         return mdc;
     }
+
+    double PropertyWrapper::EqualAmortization(double amt, double interest, int period) {
+        return ::EqualAmortization(amt, interest, period);
+    }
 }

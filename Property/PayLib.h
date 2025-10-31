@@ -14,8 +14,6 @@
     #define EXPORT_API __declspec(dllimport)
 #endif
 
-using namespace std;
-
 extern "C" {
     EXPORT_API double __stdcall EqualAmortization(double amt, double interest, int period);
 
@@ -30,4 +28,3 @@ extern "C" {
 
     EXPORT_API DailyCompound __stdcall GetMonthlyInterest(Property* p, int month, int year) { return p->GetMonthlyInterest(month, year); }
 }
-
